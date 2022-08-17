@@ -1,6 +1,6 @@
 # Ethers Simple Storage
 
-This repo has the code written as part of the [course](https://www.youtube.com/watch?v=gyMwXuJrbJQ), with personall comments added for better understanding. 
+This repo has the code written as part of the [course](https://www.youtube.com/watch?v=gyMwXuJrbJQ), with personal comments added for better understanding. 
 
 Following topics are covered. 
 
